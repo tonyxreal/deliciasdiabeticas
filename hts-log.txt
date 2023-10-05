@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 05 Oct 2023 22:21:30 at https://deliciasdiabeticas.webnode.es +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://deliciasdiabeticas.webnode.es -O1 "C:\My Web Sites\diabetes" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:21:38	Warning: 	Moved Permanently for https://deliciasdiabeticas.webnode.es/home/
+22:21:38	Warning: 	File has moved from https://deliciasdiabeticas.webnode.es/home/ to https://deliciasdiabeticas.webnode.es/
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 seconds : 29 links scanned, 27 files written (5250554 bytes overall) [3109280 bytes received at 388660 bytes/sec], 2654459 bytes transferred using HTTP compression in 14 files, ratio 16%, 4.1 requests per connection
+(No errors, 2 warnings, 0 messages)
