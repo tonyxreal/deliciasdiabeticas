@@ -10,8 +10,9 @@
 @media only screen and (max-width: 600px) {
     .clientes{
         width: 30%;
-        margin-left: 30px;
+        margin-left: 43px;
         margin-right: 30px;
+        padding: 0px;
     }
 
     .center {
@@ -24,8 +25,8 @@
 
 @media only screen and (min-width: 900px) {
     .clientes{
-        margin-left: 90px;
+        margin-left: 120px;
         margin-right: 90px;
-        max-width: 35%;
+        max-width: 25%;
     }
 }
