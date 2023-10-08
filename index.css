@@ -31,3 +31,40 @@
         max-width: 25%;
     }
 }
+
+.contenedor-clientes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.cliente {
+    width: 45%;
+    margin: 10px;
+    text-align: center;
+}
+
+.cliente img {
+    max-width: 80%;
+    height: auto;
+}
+
+@media only screen and (max-width: 800px) {
+    .contenedor-clientes {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .cliente {
+        width: 40%;
+        margin: 5px;
+        text-align: center;
+    }
+    
+    .cliente img {
+        max-width: 80%;
+        height: auto;
+    }
+
+}
